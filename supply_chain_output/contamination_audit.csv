@@ -1,0 +1,2 @@
+table,column,total_rows,n_contaminated,null_injected,shift_injected,shift_hours,contamination_pct
+Freight_Orders,Actual_Arrival,600,30,17,13,48.0,5.0
